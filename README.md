@@ -1,6 +1,6 @@
 # primeiro-site
 
-<!-- desafio 1 rafaela cristina andreola da silva -->
+<!-- desafio semana 1 rafaela cristina andreola da silva -->
  
     <html>
   
